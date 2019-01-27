@@ -21,6 +21,7 @@ ENV PHPIZE_DEPS \
 		autoconf \
 		dpkg-dev \
 		file \
+		gdb \
 		g++ \
 		gcc \
 		libc-dev \
